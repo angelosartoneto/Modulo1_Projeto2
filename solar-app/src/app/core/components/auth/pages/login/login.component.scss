@@ -1,0 +1,31 @@
+.row {
+    background-color: #FAFAFA;
+  }
+  
+  .bemvindo {
+    margin-bottom: 40px;
+    font-size: 24px;
+    font-family: Roboto Slab;
+  }
+  
+      input{
+      padding: 20px;
+      height: 70px;
+      margin-bottom: 20px;
+      border-radius: 10px;
+      font-size: 17px;
+      }
+  
+    button {
+      width: 100%;
+      height: 70px;
+      background-color: #4CBC9A;
+      border-radius: 10px;
+      
+    }
+
+    .msg_erro {
+        font-size: 15px;
+        margin-top: 20px;
+        color: red;
+    }

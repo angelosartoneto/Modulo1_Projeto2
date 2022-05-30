@@ -1,0 +1,17 @@
+<div class="row">
+    <img src="../assets/img/fundo.png" alt="" class="col-6 form-signin-heading text-center">
+    <div class="col-1 form-signin-heading text-center">
+    </div>
+      <form [formGroup]="formAuth" (ngSubmit)="submitForm()" class="col-4 form-signin-heading text-center" >
+        <img src="../assets/img/Logo.png" alt="" class="rounded mx-auto d-block">
+        <h2 class="bemvindo">Seja bem vindo</h2>
+        <div class="row d-flex justify-content-center">
+        <input formControlName="email" type="email" class="form-control" id="usuario" name="usuario" placeholder="✉️  E-mail" required="" autofocus=""/>
+        <input formControlName="password" type="password" class="form-control" id="senha" name="senha"  placeholder="🔒  Senha" required=""/>
+        </div>
+        <div class="row d-flex justify-content-center">
+        <button [disabled]="formAuth.invalid" class="btn waves-effect waves-light " type="submit" name="action" >Entrar</button>
+        <span class="msg_erro" *ngIf="msgError">{{ msgError }}</span>
+      </div>
+      </form>
+    </div>
