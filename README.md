@@ -27,8 +27,3 @@ Nota: É feito a validação do usuario e senha. Com alerta na tela de login:
 Quando não existe comunicação com o fake-sever, após alguns segundos: "No momento nao é possivel validar os dados, tente novamente!"
 Quando existe a comunicação com o fake-server, mas o usuario ou senha está errado: "Usuário ou senha incorreta"
 Quando o campo e-mail nao é preenchido com uma conta seguido de @algumacoisa, o botão Entrar fica desabilitado.
-
-Sinto por não conseguir avançar nas demais telas. Agradeço imensamente a compreenção e vamos em frente!
-
-Atenciosamente,
-Angelo Sarto.
