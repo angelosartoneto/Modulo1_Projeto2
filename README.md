@@ -1,11 +1,6 @@
 # Modulo1_Projeto2
 Olá, bem vindo ao meu segundo Projeto Avaliativo.
 
-Primeiramente, gostaria de informar que este projeto não foi concluido. Devido as minhas atividades pessoais nas ultimas semanas (Casarei em 11 de Junho), 
-tive que sacrificar minhas horas livres ao qual me dedicava a exercicitar os conteudos adiquiridos nas aulas. 
-Por hora, dei o meu melhor, no tempo em que tinha disponivel e, assim que possivel, estarei recuperando este tempo perdido.
-
-Dados as resalvas, vamos ao que você precisara para rodar este projeto:
 
 1 - Faça o download dos 2 diretorios: Fake-Server e Solar-app;
 
